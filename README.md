@@ -37,12 +37,12 @@ Finally, we investigate the influence of injecting structural information into t
 - Results: 
   - Predictions
     - [Single LOG](https://drive.google.com/drive/folders/1Dd1H1M9S7EzK0r6O0xWdHPvMzQibm-vU?usp=sharing)
-    - [Multi LOG 0 to n]()
+    - [Multi LOG 0 to n](https://drive.google.com/drive/folders/17P8-5audy8dt2MPjQY4VgcWd9NQS-W_f?usp=sharing)
     - [T5-Based Classifier](https://drive.google.com/drive/folders/1P8TZYbmb396tZDU8vFwTRInSKbttI6-Z?usp=sharing)
-    - [Multi LOG 1 to n]()
-    - [Single LOG with structural information]()
-    - [Multi LOG 0 to n with structural information]()
-    - [T5-Based Classifier with structural information]()
-    - [Multi LOG 1 to n with structural information]()
+    - [Multi LOG 1 to n](https://drive.google.com/drive/folders/177W8Hcew7ZzgyFXIDRdNcJ0LaldBH2EU?usp=sharing)
+    - [Single LOG with structural information](https://drive.google.com/drive/folders/15DAnU-9jFEpPh0VqtOzJbWAiAVQ020iT?usp=sharing)
+    - [Multi LOG 0 to n with structural information](https://drive.google.com/drive/folders/16PCIWFeoz2z_iydJZfbPjMb_Dn3MeDZb?usp=sharing)
+    - [T5-Based Classifier with structural information](https://drive.google.com/drive/folders/14MESeW3GbVdyPPN7T6GtDTJ1xkForT2d?usp=sharing)
+    - [Multi LOG 1 to n with structural information](https://drive.google.com/drive/folders/16e_--2Qb7qHYwkCEcj4SOUBV7FdYLuKL?usp=sharing)
   - Manual Analysis
     - [Single LOG](https://drive.google.com/file/d/1rm1qngEY-7KfRD-nrsRaqYGpS6vfuXSH/view?usp=sharing)
